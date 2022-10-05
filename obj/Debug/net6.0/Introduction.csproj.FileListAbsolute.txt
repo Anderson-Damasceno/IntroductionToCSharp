@@ -1,0 +1,15 @@
+C:\Projects\DotNet\Introduction\bin\Debug\net6.0\Introduction.exe
+C:\Projects\DotNet\Introduction\bin\Debug\net6.0\Introduction.deps.json
+C:\Projects\DotNet\Introduction\bin\Debug\net6.0\Introduction.runtimeconfig.json
+C:\Projects\DotNet\Introduction\bin\Debug\net6.0\Introduction.dll
+C:\Projects\DotNet\Introduction\bin\Debug\net6.0\Introduction.pdb
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\Introduction.csproj.AssemblyReference.cache
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\Introduction.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\Introduction.AssemblyInfo.cs
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\Introduction.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\Introduction.dll
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\refint\Introduction.dll
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\Introduction.pdb
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\Introduction.genruntimeconfig.cache
+C:\Projects\DotNet\Introduction\obj\Debug\net6.0\ref\Introduction.dll
